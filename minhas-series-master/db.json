@@ -38,6 +38,20 @@
       "genre": "Comédia",
       "comments": "teste",
       "id": 6
+    },
+    {
+      "name": "teste",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "teste",
+      "id": 7
+    },
+    {
+      "name": "teste2",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "teste2",
+      "id": 8
     }
   ],
   "genres": [

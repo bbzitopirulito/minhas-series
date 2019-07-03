@@ -1,24 +1,6 @@
 {
   "series": [
     {
-      "id": 1,
-      "name": "How I met your mother",
-      "status": "watched",
-      "genre": "Comédia",
-      "comments": "Muito bom"
-    },
-    {
-      "id": 2,
-      "name": "Friends",
-      "status": "watching",
-      "genre": "Comédia",
-      "current": {
-        "episode": "01",
-        "season": "09"
-      },
-      "comments": "Bom para descontrair"
-    },
-    {
       "id": 3,
       "name": "Breaking Bad",
       "status": "watched",
@@ -28,16 +10,9 @@
     {
       "id": 4,
       "name": "Better Call Saul",
-      "status": "toWatch",
-      "genre": "Drama",
-      "comments": "Galera fala bem"
-    },
-    {
-      "name": "teste",
       "status": "watched",
       "genre": "Comédia",
-      "comments": "teste",
-      "id": 6
+      "comments": "Galera fala bem mau né, vamo combinar"
     },
     {
       "name": "teste",
@@ -52,6 +27,13 @@
       "genre": "Drama",
       "comments": "teste2",
       "id": 8
+    },
+    {
+      "name": "teste açã",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "tsaett",
+      "id": 9
     }
   ],
   "genres": [
